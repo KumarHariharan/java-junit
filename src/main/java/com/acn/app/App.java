@@ -8,12 +8,12 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello World this is for demo!" );
     }
 
 	public static String getHelloWorld() {
 
-		return "Hello World";
+		return "Hello World this is for demo";
 
 	}
 
