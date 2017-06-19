@@ -22,4 +22,10 @@ public class App
 		return "Hello World 2";
 
 	}
+public static String getHelloWorld3() {
+
+		return "Hello World 3";
+
+	}
 }
+
