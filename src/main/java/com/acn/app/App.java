@@ -39,5 +39,11 @@ public static String getHelloWorld5() {
 		return "Hello World 5";
 
 	}
+
+public static String getHelloWorld6() {
+
+		return "Hello World 6";
+
+	}
 }
 
