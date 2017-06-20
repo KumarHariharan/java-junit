@@ -33,5 +33,11 @@ public static String getHelloWorld4() {
 		return "Hello World 4";
 
 	}
+
+public static String getHelloWorld5() {
+
+		return "Hello World 5";
+
+	}
 }
 
